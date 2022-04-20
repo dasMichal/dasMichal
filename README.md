@@ -47,10 +47,3 @@
 <a href="https://instagram.com/whomichal"><img src="https://img.shields.io/badge/whomichal-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/dasMichal"><img src="https://img.shields.io/badge/-dasMichal-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
-
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasMichal&layout=compact&hide=TSQL&theme=chartreuse-dark">
-
-
-
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dasMichal&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" padding="1000px" width="400"></p> 
