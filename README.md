@@ -1,4 +1,4 @@
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="10px">, I am Michał</h1>
+<h1 align="center">Hi there, I am Michał</h1>
 
 <h2 align="center">Mostly into embedded development with Arduino and PIC</h2>
 
