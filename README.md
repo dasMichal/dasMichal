@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I am Michał</h1>
 
-<h2 align="center">Mostly into embedded development with Arduino and PIC</h2>
+<h2 align="center">Mostly into embedded development with Arduino, ESP32 and PIC</h2>
 
 </p>
 
